@@ -47,6 +47,7 @@ public class Main {
         System.out.println("Tack för ditt besök, " + namn + "!");
         System.out.println("Och varmt välkommen åter!");
 
+
         scanner.close();
     }
 }
